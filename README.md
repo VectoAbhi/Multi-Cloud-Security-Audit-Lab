@@ -1,4 +1,5 @@
 # Multi-Cloud-Security-Audit-Lab
+
 ## Overview
 A practical audit and hardening project across AWS and Azure focused on identity, network boundaries, and continuous detection so misconfigurations are caught before they turn into incidents.
 
